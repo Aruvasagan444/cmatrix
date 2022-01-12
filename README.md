@@ -1,1 +1,2 @@
-# cmatrix
+apt install cmatrix
+Cmatrix
